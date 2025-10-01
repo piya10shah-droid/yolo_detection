@@ -1,0 +1,3 @@
+1st command: cd your/path/to/your/folder
+
+2nd command: py your/path/to/your/python/file/main.py --resolution 1280x720 --source usb0 (can be path to img or vid) --model your/path/to/your/model.pt
