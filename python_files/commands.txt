@@ -1,3 +1,7 @@
 1st command: cd your/path/to/your/folder
 
-2nd command: py your/path/to/your/python/file/main.py --resolution 1280x720 --source usb0 (can be path to img or vid) --model your/path/to/your/model.pt
+
+2nd command: then download the python files by running curl -o main.py https://raw.githubusercontent.com/piya10shah-droid/yolo_detection/refs/heads/main/python_files/main.py
+
+
+3nd command: py your/path/to/your/python/file/main.py --resolution 1280x720 --source usb0 (can be path to img or vid) --model your/path/to/your/model.pt
